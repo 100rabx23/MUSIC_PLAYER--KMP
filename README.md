@@ -29,3 +29,13 @@ Inspired by modern music apps (like Spotify/JioSaavn), this project demonstrates
 
 ## 📂 Project Structure  
 
+music-player-kmp/
+│── androidApp/ # Android-specific code (Jetpack Compose UI)
+│── iosApp/ # iOS-specific code (SwiftUI integration)
+│── shared/ # Shared Kotlin Multiplatform module
+│ ├── auth/ # GitLab OAuth integration
+│ ├── data/ # Data & networking logic
+│ ├── player/ # Music playback logic
+│ └── ui/ # Shared UI components
+│── build.gradle.kts # Project build config
+│── settings.gradle.kts
