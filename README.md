@@ -39,3 +39,20 @@ music-player-kmp/
 │ └── ui/ # Shared UI components
 │── build.gradle.kts # Project build config
 │── settings.gradle.kts
+
+
+---
+
+## 🔑 GitLab OAuth Setup  
+
+1. Go to your **GitLab account → Settings → Applications**  
+2. Create a new OAuth application with:  
+   - Redirect URI: `myapp://auth`  
+   - Scopes: `read_user`  
+3. Copy **Client ID** and **Client Secret**  
+4. Add them in your `local.properties` (not in version control):  
+
+```properties
+GITLAB_CLIENT_ID=your_client_id
+GITLAB_CLIENT_SECRET=your_client_secret
+
