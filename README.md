@@ -3,7 +3,8 @@
 A **cross-platform Music Player application** built with **Kotlin Multiplatform (KMP)** and secured using **GitLab OAuth Authentication**.  
 Inspired by modern music apps (like Spotify/JioSaavn), this project demonstrates how KMP + Compose Multiplatform can deliver **production-ready apps** for **Android & iOS** with a shared codebase.  
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
+A decentralized web application that rewards users with cryptocurrency for staying focused using their webcam activity.
 
 ## 🚀 Features  
 
