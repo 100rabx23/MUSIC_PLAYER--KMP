@@ -2,6 +2,8 @@
 ..........
 
 
+.........
+
 A **cross-platform Music Player application** built with **Kotlin Multiplatform (KMP)** and secured using **GitLab OAuth Authentication**.  
 Inspired by modern music apps (like Spotify/JioSaavn), this project demonstrates how KMP + Compose Multiplatform can deliver **production-ready apps** for **Android & iOS** with a shared codebase.  
 
