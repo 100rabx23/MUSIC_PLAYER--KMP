@@ -18,14 +18,14 @@ A decentralized web application that rewards users with cryptocurrency for stayi
 ---
 
 ## 🛠️ Tech Stack  
-```
+
 - **Kotlin Multiplatform (KMP)**  
 - **Compose Multiplatform** for UI  
 - **Jetpack Compose** (Android) & **SwiftUI** (iOS)  
 - **GitLab OAuth Authentication**  
 - **Android Studio Giraffe/Hedgehog**  
 - **Gradle Kotlin DSL**  
-```
+
 ---
 
 ## 📂 Project Structure  
