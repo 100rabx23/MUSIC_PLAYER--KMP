@@ -30,7 +30,7 @@ A decentralized web application that rewards users with cryptocurrency for stayi
 
 ## 📂 Project Structure  
 
-music-player-kmp/
+```music-player-kmp/
 │── androidApp/ # Android-specific code (Jetpack Compose UI)
 │── iosApp/ # iOS-specific code (SwiftUI integration)
 │── shared/ # Shared Kotlin Multiplatform module
@@ -40,7 +40,7 @@ music-player-kmp/
 │ └── ui/ # Shared UI components
 │── build.gradle.kts # Project build config
 │── settings.gradle.kts
-
+```
 
 ---
 
