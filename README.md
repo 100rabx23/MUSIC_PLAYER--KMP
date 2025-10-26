@@ -60,5 +60,5 @@ GITLAB_CLIENT_SECRET=your_client_secret
 
 
 '''
-Still under Development!!
+Still under Development!!...
 
