@@ -34,7 +34,7 @@
 			path = Configuration;
 			sourceTree = "<group>";
 		};
-/* End PBXFileSystemSynchronizedRootGroup section */
+/* End PBXFileSystemSynchronizedRoot section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		F2A2CBE36BBD2BEA07817C02 /* Frameworks */ = {
