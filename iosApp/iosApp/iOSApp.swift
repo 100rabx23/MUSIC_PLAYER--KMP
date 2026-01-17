@@ -1,6 +1,6 @@
 import SwiftUI
 import SwiftUX
-@main
+@main domain
 struct iOSApp: App {
     var body: some Scene {
         WindowGroup {
